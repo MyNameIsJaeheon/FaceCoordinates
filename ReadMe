@@ -1,4 +1,8 @@
-dependencies:
+* Reference: 
+The paper: https://openaccess.thecvf.com/content/WACV2021/papers/Karkkainen_FairFace_Face_Attribute_Dataset_for_Balanced_Race_Gender_and_Age_WACV_2021_paper.pdf
 
-dlib
-pytorch
+* Install Dependencies
+
+Please follow the Pytorch's official documentation to install Pytorch
+Please also install dlib, if you have pip installed on your system. Simply type the following command on your terminal.
+pip install dlib
